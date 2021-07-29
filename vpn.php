@@ -1,6 +1,6 @@
-{"Version":"1.03",
+{"Version":"1.04",
 
-"Url":"http://github.com/alifvivo/alifvivo/raw/main/fuck.zip" ,
+"Url":"https://github.com/alifvivo/alifvivo/raw/main/pakyavpn.zip" ,
 
 "Changelog":"  
 
@@ -33,7 +33,7 @@ Hope you all enjoy and thank you for using our app
 
 ",
 
-"latestVersion": "1.03",
+"latestVersion": "1.04",
 
 "latestVersionCode": "1",
 

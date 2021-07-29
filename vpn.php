@@ -1,4 +1,4 @@
-{"Version":"1.02",
+{"Version":"1.03",
 
 "Url":"http://github.com/alifvivo/alifvivo/raw/main/fuck.zip" ,
 
@@ -33,7 +33,7 @@ Hope you all enjoy and thank you for using our app
 
 ",
 
-"latestVersion": "1.02",
+"latestVersion": "1.03",
 
 "latestVersionCode": "1",
 

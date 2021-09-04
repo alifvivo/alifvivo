@@ -12,20 +12,12 @@ PAKYAVPN OVPN is a free and VIP  app for those who want to access Internet secur
 
 What we privode in our app
 
-🟢 AIS 🇹🇭 🔜
-🔵 DTAC 🇹🇭 🔜
-🔴 TRUE 🇹🇭 🔜
-🔴 MAXIS 🇲🇾 🔜
-🟡 DIGI 🇲🇾 🔜
-🟠 Umobile 🇲🇾 🔜
-🔵 Celcom 🇲🇾 🔜
-🔴 Telkomsel 🇲🇨 🔜
+🔴 MAXIS 🇸🇬 🔜
+🇸🇬NO MULTI LOGIN🇸🇬
+🇸🇬NO TORREN🇸🇬
 
 Our server location
 🇸🇬 🔜
-🇹🇭 🔜
-🇲🇾 🔜
-🇲🇨 🔜
 
 Please choose the nearest server to your location for connection stability and get high-speed performance 
 

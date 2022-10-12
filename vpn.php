@@ -4,20 +4,26 @@
 
 "Changelog":"  
 
-🙏 WELCOME TO PAKYAVPN OVPN🙏
+🙏WELCOME TO TTLA_VPN_SERVICES OVPN🙏
 
-            PAKYA  VPN Stable
+            VERSION TTLA_VPN_SERVICE Stable
 
-PAKYAVPN OVPN is a free and VIP  app for those who want to access Internet securely and get more faster download speed. 
+TTLA_VPN_SERVICE OVPN is a paid and VIP app for those who want to access Internet securely and get more faster download speed. 
 
-What we privode in our app
+What we providede in our app
 
-🔴 MAXIS 🇸🇬 🔜
-🇸🇬NO MULTI LOGIN🇸🇬
-🇸🇬NO TORREN🇸🇬
+2SERVER MALAYSIA AND SINGAPORE 🔜
+NO MULTI LOGIN
+NO TORRENT
+NO DDOS
+NO PORN
 
-Our server location
-🇸🇬 🔜
+INTERNET TELCO
+MXS
+DIGI
+UMOBLE
+CELCOM 
+CHANEL OFFICIAL @TTLA4U 🔜
 
 Please choose the nearest server to your location for connection stability and get high-speed performance 
 

@@ -1,4 +1,4 @@
-{"Version":"1.33",
+{"Version":"1.34",
 
 "Url":"https://github.com/alifvivo/alifvivo/raw/main/pakyavpn.zip" ,
 
@@ -25,7 +25,7 @@ Hope you all enjoy and thank you for using our app
 
 ",
 
-"latestVersion": "1.33",
+"latestVersion": "1.34",
 
 "latestVersionCode": "1",
 

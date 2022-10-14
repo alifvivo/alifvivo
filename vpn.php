@@ -1,4 +1,4 @@
-{"Version":"1.35",
+{"Version":"1.36",
 
 "Url":"https://github.com/alifvivo/alifvivo/raw/main/pakyavpn.zip" ,
 
@@ -6,7 +6,7 @@
 
 🙏WELCOME TO TTLA_VPN_SERVICES OVPN🙏
 
-            VERSION TTLA_VPN_SERVICE Stable
+  VERSION TTLA_VPN_SERVICE Stable
 
 TTLA_VPN_SERVICE OVPN is a paid and VIP app for those who want to access Internet securely and get more faster download speed. 
 
@@ -31,7 +31,7 @@ Hope you all enjoy and thank you for using our app
 
 ",
 
-"latestVersion": "1.35",
+"latestVersion": "1.36",
 
 "latestVersionCode": "1",
 
